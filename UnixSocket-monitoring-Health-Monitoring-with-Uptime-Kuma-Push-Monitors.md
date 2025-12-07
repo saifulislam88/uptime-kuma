@@ -1,11 +1,11 @@
-# Supervisord Health Monitoring with Uptime Kuma Push Monitors
+## UnixSocket | Supervisord Health Monitoring with Uptime Kuma Push Monitors
 
 This document describes how to monitor the `supervisord` service on Linux servers using **Uptime Kuma Push monitors** and a small shell script with `cron`.  
 It is written so you can drop it directly into a Git repository (e.g. as `SUPERVISORD_UPTIME_KUMA.md`).
 
 ---
 
-## 1. Purpose
+### 1. Purpose
 
 We want to:
 
